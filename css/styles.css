@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #5169a7;
+  font-size: small;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+header nav div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main {
+  background-color: #d09d72;
+}
+
+div a {
+  background-color: #d09d72;
+}
+
+footer {
+  background-color: #5169a7;
+}
